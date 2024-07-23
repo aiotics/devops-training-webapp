@@ -4,7 +4,7 @@ const port = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
   res.send(`
-    <h1>DevOps Training Web App</h1>
+    <h1>AIOTICS DevOps Training Web App</h1>
     <p>This is a simple web application for demonstrating CI/CD implementation.</p>
     <p>Project components:</p>
     <ul>
